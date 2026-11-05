@@ -1,0 +1,12 @@
+node_modules/
+lib/
+.artifacts/
+.env
+coverage/
+.host-restart/
+**/dist/
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
